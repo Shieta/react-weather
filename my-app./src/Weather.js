@@ -15,7 +15,10 @@ export default function Weather() {
       </div>
       <p className="open-source">
         This project was coded by Marisol HO and is {""}
-        <a href="https://github.com/Shieta/react-weather" target="_blank">
+        <a
+          href="https://github.com/Shieta/react-weather"
+          rel="noopener noreferrer"
+        >
           Open-source code
         </a>{" "}
       </p>
